@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[knu:home|Door43 (knu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-knu|d43-knu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-knu/archive/master.zip|d43-knu.zip]]
+
+**Recent Changes**
+{{changes>ns = knu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/knu|Ethnologue data]]
+
